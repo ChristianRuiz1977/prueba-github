@@ -1,1 +1,1 @@
-console.log("que tal, como va todo");
+console.log("que tal, como estuvo tu dia");
